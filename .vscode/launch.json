@@ -9,7 +9,7 @@
       "webRoot": "${workspaceFolder}"
     },
 
-    and
+    
     {
       "name": "Debug current file",
       "type": "rdbg",
